@@ -1,16 +1,15 @@
 ---
-citekey: liuDeepIndustrialImage2024
+citekey: "liuDeepIndustrialImage2024"
 aliases:
-  - Liuet al.(2024)Deep Industrial Image Anomaly Detection
+  - 'Liuet al.(2024)Deep Industrial Image Anomaly Detection'
 title: "Deep Industrial Image Anomaly Detection: A Survey"
 authors:
-  - Jiaqi Liu, Guoyang Xie, Jinbao Wang, Shangnian Li, Chengjie Wang, Feng Zheng, Yaochu Jin
+  - "Jiaqi Liu, Guoyang Xie, Jinbao Wang, Shangnian Li, Chengjie Wang, Feng Zheng, Yaochu Jin"
 tags:
-  - AnomalyDetection
-  - DeepLearning
+  - literature-note
 year: "2024"
-publisher: Machine Intelligence Research
-doi: 10.1007/s11633-023-1459-z
+publisher: "Machine Intelligence Research"
+doi: "10.1007/s11633-023-1459-z"
 ---
 
 # [Deep Industrial Image Anomaly Detection: A Survey](zotero://select/library/items/JEJWJD3J)
@@ -58,6 +57,14 @@ doi: 10.1007/s11633-023-1459-z
 - & We review the recent advances of deep learning-based image anomaly detection since the rapid development of deep learning can bring the capabilities of image anomaly detection into the factory floor. In modern manufacturing, image anomaly detection (IAD) is always performed at the end of the manufacturing process and tries to identify product defects. The price of a product is significantly affected by the defect′s severity. In addition, if the flaw reaches a certain threshold, the product will be discarded. Historically, the majority of anomaly detection tasks are performed by humans, which suffers from the following many disadvantages: [(p. 104)](zotero://open-pdf/library/items/NUF92HMP?page=104&annotation=64DY2QUD) 
 
 
+*Imported on 2026-01-12 20:42*
+
+
+> [!cite]+ Image [(p. 105)](zotero://open-pdf/library/items/NUF92HMP?page=105&annotation=KUMN7YQW)
+> ![[Zotero/images/image-2-x36-y626.png]]
+> ****
+
+
 %% end annotations %%
 
-%% Import Date: 2026-01-12T20:38:41.673+09:00 %%
+%% Import Date: 2026-01-12T20:42:25.205+09:00 %%
